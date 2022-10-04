@@ -1,3 +1,7 @@
 This is the new file added to the repo
 4.10.22
 Hi Today i have cloned this example from the remote repo and working on
+<<<<<<< HEAD
+=======
+Successfully cloned edited and pushed to remote repo
+>>>>>>> f4ba591ebe1bc52ea7bdc54fd0fc2554c46abc61
